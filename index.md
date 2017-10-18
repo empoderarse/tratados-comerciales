@@ -49,7 +49,7 @@ Fracaso de las negociaciones en los últimos años debido a la alianza de los m�
 
 ----
 
-### TLC activos o en negociación 
+### TLC activos o en negociación
 
 [<img src="img/world-trade-agreements-by-country.png" alt="Tratados de libre comercio por países" style="height:600px">](http://ftavis.com/)
 
@@ -75,19 +75,106 @@ Fracaso de las negociaciones en los últimos años debido a la alianza de los m�
 
 ---
 
-## Denominaciones de Origen 
+## Cooperación reguladora
 
-<img src="img/denominaciones-origen-mancha.png" alt="Denominaciones de origen de la Mancha" style="height:200px"> 
+- 
+
+---
+
+## Impactos sobre la Soberanía Alimentaria
+
+- Fin del “principio de precaución” en la seguridad alimentaria
+- Armonización a la baja de las normativas alimentarias:
+    - Mayor permisividad en la entrada de cultivos transgénicos.
+    - Legalización de pesticidas y agrotóxicos.
+    - Legalización de sustancias químicas para el tratamiento de la carne y el ganado. - Etiquetado menos transparente.
+    - Eliminar prohibiciones sobre disruptores endocrinos.
+
+----
+
+### Impactos sobre la Agricultura
+
+----
+
+### Impactos sobre la Ganadería
+
+---
+
+## Denominaciones de Origen
+
+- El CETA sólo reconoce 27 de las 246 indicaciones geográficas protegidas en el Estado español.
+
+- En CLM sólo se reconocen 2 de las 30 indicaciones geográficas protegidas. 
+
+- En Canada se podrán producir productos bajo denominaciones que no estén reconicidas en el CETA.
+
+----
+
+### Denominaciones de origen e Indicaciones Protegidas de CLM
+
+|        |   |   |   |   |
+|--------|---|---|---|---|
+| Aceite de Campo de Montiel | Campo de la Calatrava | Dominio de Valdepusa | Melón de la Mancha | Pago Florentino | 
+| Aceite de la Alcarria | Campo de la Guardia | Finca Élez | Méntrida | Pan de cruz de C.Real |
+| Ajo morado de las Pedroñeras | Casla del Blanco | Guijoso | Miel de la Alcarria | <span style="color:orange">Queso Manchego</span> |
+| Almansa | Castilla | La Mancha | Mondéjar | Ribera del Júcar |
+| <span style="color:orange">Azafrán de la Mancha</span> | Cordero manchego | Manchuela | Montes de Toledo | Uclés |
+| Berenjenas de Almagro | Dehesa del carrizal | Mazapán de Toledo | Pago Calzadilla | Valdepeñas |
+
+---
+
+## Impactos sobre la salud y los consumidores
+
+---
+
+## Impactos sobre el Medio Ambiente
+
+- Aumento del cambio climático.
+- Emisión de 11 millones de toneladas de CO2 más. 
+- Retraso en la reconversión hacia energías renovables. Las petroleras podrán evitar los gravámenes sobre la emisión de CO2.
+
+---
+
+## Impactos laborales
+
+---
+
+## Impactos sobre los Servicios Públicos
+
+- Liberalización y privatización de los servicios públicos:
+    - Sanidad
+    - Educación
+    - Agua
+- Eliminación de las condiciones que favorezcan a las empresas locales en la adjudicación de contratos públicos (“Buy America”).
+- Adopción del planteamiento de “lista negativa” por el cual todos los servicios son liberalizados salvo que se señalen explícitamente como excepciones.
+- Indemnizaciones millonarias en caso de renacionalización.
+
+---
+
+## Impactos sobre las Soberanías
+
+Creación de tribunales de arbitraje internacionales para la resolución de disputas entre inversores y estados (ISDS):
+
+- Formados por abogados corporativistas (no jueces titulados) nada imparciales.
+- Las compañías podrán demandar por daños y perjuicios o lucro cesante al estado donde efectúen sus operaciones incluso sin tener contrato directo con este.
+-Se evitan los tribunales nacionales
+
+_Se equipara la condición jurídica de las empresas transnacionales con la de los estados, pudiendo cuestionar las decisiones democráticas adoptadas por éstos._
 
 ---
 
 ## ¿Cómo defendernos?
 
-- Promoción del Mandato de Comercio Alternativo elaborado por más de 50 organizaciones europeas y con gran participación ciudadana para garantizar un comercio sostenible que no anteponga los intereses de las empresas a los derechos de las personas y del medio ambiente.
+<div class="column" style="float:left; width: 50%; text-align:left;">
 
-- Movilización social y convergencia de luchas
+<p data-markdown>- Promoción del Mandato de Comercio Alternativo elaborado por más de 50 organizaciones europeas y con gran participación ciudadana para garantizar un comercio sostenible que no anteponga los intereses de las empresas a los derechos de las personas y del medio ambiente.</p>
+<p data-markdown>- Movilización social y convergencia de luchas</p>
 
-<img src="img/mandato-alternativo-comercio.png" alt="Mandato de Comercio Alternativo" style="height:200px"> 
+</div>
+
+<div class="right">
+<img src="img/mandato-alternativo-comercio.png" alt="Mandato de Comercio Alternativo" style="height:400px"> 
+</div>
 
 ---
 
